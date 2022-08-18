@@ -1,0 +1,17 @@
+[
+  {
+    "email": "example1@email",
+    "password": "examplePassword",
+    "device": "exampleDeviceId"
+  },
+  {
+    "email": "example2@email",
+    "password": "examplePassword",
+    "device": "exampleDeviceId"
+  },
+  {
+    "email": "example3@email",
+    "password": "examplePassword",
+    "device": "exampleDeviceId"
+  }
+]
